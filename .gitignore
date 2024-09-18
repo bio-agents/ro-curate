@@ -1,0 +1,10 @@
+/build
+/dist
+/ro_curate.egg-info
+/.idea
+*/__pycache__/
+*.pyc
+.DS_Store
+/tests/data/build
+.env
+venv
